@@ -14,8 +14,6 @@ abbr{
 }
 
 </style>
-{% assign it = it | plus:1 %}
-{% if link.AC %}{% assign ij = ij | plus:1 %}<abbr class="badge" style="background-color: #00008B;" markdown="1">Journal {{ it }}</abbr>{% else %}{% assign ip = ip | plus:1 %}<abbr class="badge" markdown="1">Preprint {{ it }}</abbr>{% endif %}
+{% if link.AC %}{% assign it = it | plus:1 %}{% assign ij = ij | plus:1 %}<abbr class="badge" style="background-color: #00008B;" markdown="1">Journal {{ it }}</abbr>{% elsif link.PROC %}<abbr class="badge" style="background-color: #008B00;" markdown="1">Proceedings</abbr>{% else %}{% assign it = it | plus:1 %}{% assign ip = ip | plus:1 %}<abbr class="badge" markdown="1">Preprint {{ it }}</abbr>{% endif %}
 **{{ link.AU }}**, *{{ link.TI }}*, {% if link.preprint %}{{ link.preprint }}  {% else %}  {% endif %}
-{% if link.AC %}**Accepted in** {{ link.AC }}{% endif %}
-
+{% if link.AC %}**Accepted in** {{ link.AC }}{% endif %}{% if link.PROC %}**in Proceedings** {{ link.PROC }}{% endif %}

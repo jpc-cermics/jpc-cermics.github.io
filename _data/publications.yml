@@ -20,7 +20,7 @@
 -  AU: "S. Rakotomandimby, J.-Ph. Chancelier, M. De Lara, A. Lefranc"
    date: 2026
    TI: "Subgradient Selector in the Generalized Cutting Plane Method with an Application to Sparse Optimization"
-   preprint: "[ha-04856783v1 (2024)](https://hal.science/hal-04856783v1)"
+   preprint: "[hal-04856783v1 (2024)](https://hal.science/hal-04856783v1)"
    AC: "[Optim Lett 20, 473–490 (2026)](https://doi.org/10.1007/s11590-025-02246-w)"
 -  AU: "A. Le Franc, P. Carpentier, J.-P. Chancelier, M. De Lara"
    date: 2026
@@ -57,16 +57,6 @@
    TI: "A stochastic algorithm for deterministic multistage optimization problems"
    preprint: "[hal-01964189 Oct 2018](https://inria.hal.science/hal-01964189)"
    AC:  "[Ann Oper Res 345, 1–38 (2025)](https://doi.org/10.1007/s10479-024-06153-8)"
--  AU: "S. Rakotomandimby, J.-Ph. Chancelier, M. De Lara, M. Blondel"
-   date: 2024
-   TI: "Learning with Fitzpatrick Losses"
-   preprint: "[arXiv:2405.14574](https://arxiv.org/abs/2405.14574)"
-   AC: "[Advances in Neural Information Processing Systems 37 (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/90caeb952bd4b03c7d8e7a0e31fc9a8b-Abstract-Conference.html)"
--  AU: "J.-Ph. Chancelier, M. De Lara"
-   date: 2024
-   TI: "A Unified View of Polarity for Functions"
-   preprint: "[hal-04746856 (2024)](https://hal.archives-ouvertes.fr/hal-04746856)"
-   AC: "[Journal of Convex Analysis (2024)](https://www.heldermann.de/JCA/jcacover.htm)"
 -  AU: "C. Martinez Parra, M. De Lara, J.-Ph. Chancelier, P. Carpentier, J.-M. Janin, M. Ruiz"
    date: 2024
    TI: "A Two-Timescale Decision-Hazard-Decision Formulation for Storage Usage Values Calculation"
@@ -78,6 +68,16 @@
    preprint: "[hal-03315809v3 (2024)](https://hal.archives-ouvertes.fr/hal-03315809v3)"
    CO: "This is an extended version of entry [56]. All the proofs of [56] are now available in Coq as described in this v3 version."
    SU: "[Annals of Formalized Mathematics](https://afm.episciences.org/) (April 2024)"
+-  AU: "S. Rakotomandimby, J.-Ph. Chancelier, M. De Lara, M. Blondel"
+   date: 2024
+   TI: "Learning with Fitzpatrick Losses"
+   preprint: "[arXiv:2405.14574](https://arxiv.org/abs/2405.14574)"
+   AC: "[Advances in Neural Information Processing Systems 37 (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/90caeb952bd4b03c7d8e7a0e31fc9a8b-Abstract-Conference.html)"
+-  AU: "J.-Ph. Chancelier, M. De Lara"
+   date: 2024
+   TI: "A Unified View of Polarity for Functions"
+   preprint: "[hal-04746856 (2024)](https://hal.archives-ouvertes.fr/hal-04746856)"
+   AC: "[Journal of Convex Analysis (2024)](https://www.heldermann.de/JCA/jcacover.htm)"
 -  AU: "T. Rigaut, P. Carpentier, J.-P. Chancelier, M. De Lara"
    date: 2024
    TI: "Decomposition Methods for Monotone Two-Time-Scale Stochastic Optimization Problems"
@@ -226,7 +226,7 @@
 -  AU: "H. Gérard, M. De Lara, J.-Ph. Chancelier"
    date: 2020
    TI: "Equivalence Between Time Consistency and Nested Formula"
-   preprint: "[Preprint Hal, Nov 2017](https://hal.archives-ouvertes.fr/hal-01645564v1)"
+   preprint: "[hal-01645564v1, Nov 2017](https://hal.archives-ouvertes.fr/hal-01645564v1)"
    AC: "[Ann. Oper. Res. 292, 627-647 (2020)](https://doi.org/10.1007/s10479-019-03276-1)"
 -  AU: "M. Akian, J.-Ph. Chancelier, B. Tran"
    date: 2019
@@ -257,7 +257,7 @@
    date: 2019
    TI: "Translating Simulink Models to Modelica using the Nsp Platform"
    preprint: "[hal-01948681v2, version 2 (2019), version 1 (Dec. 2018)](https://hal.archives-ouvertes.fr/hal-01948681v2)"
-   AC: "[Proceedings of the 13th International Modelica Conference, Regensburg, Germany, 2019](http://dx.doi.org/10.3384/ecp19157841)"
+   PROC: "[Proceedings of the 13th International Modelica Conference, Regensburg, Germany, 2019](http://dx.doi.org/10.3384/ecp19157841)"
 -  AU: "J.-Ph. Chancelier, M. De Lara"
    date: 2019
    TI: "Fenchel-Moreau Conjugation Inequalities with Three Couplings and Application to Stochastic Bellman Equation"
@@ -271,41 +271,41 @@
 -  AU: "F. Pacaud, P. Carpentier, J.-Ph. Chancelier, V. Leclère"
    date: 2018
    TI: "Stochastic decomposition applied to large-scale hydro valleys management"
-   preprint: "[Preprint Hal, Juin 2017](https://hal-enpc.archives-ouvertes.fr/hal-01526775)"
+   preprint: "[hal-01526775, Juin 2017](https://hal-enpc.archives-ouvertes.fr/hal-01526775)"
    AC: "[European Journal of Operational Research (2018)](https://doi.org/10.1016/j.ejor.2018.05.025)"
 -  AU: "J.-Ph. Chancelier, R. Nikoukhah"
    date: 2015
    TI: "A novel code generation methodology for block diagram modeler and simulators Scicos and VSS"
-   preprint: "[Preprint Hal, oct 2015](https://hal.archives-ouvertes.fr/hal-01213247v1)"
+   preprint: "[hal-01213247v1, oct 2015](https://hal.archives-ouvertes.fr/hal-01213247v1)"
 -  AU: "J.-Ph. Chancelier"
    date: 2013
    TI: "Extensions and applications of ACF mappings"
-   preprint: "[Preprint Hal, nov 2011](http://hal.archives-ouvertes.fr/hal-00640756)"
+   preprint: "[hal-00640756, nov 2011](http://hal.archives-ouvertes.fr/hal-00640756)"
    AC: "[Journal of Mathematical Analysis and Applications (March 2013)](http://dx.doi.org/10.1016/j.jmaa.2013.03.065)"
 -  AU: "P. Carpentier, J.-Ph. Chancelier, G. Cohen, M. De Lara, P. Girardeau"
    date: 2012
    TI: "Dynamic consistency for Stochastic Optimal Control problems"
-   preprint: "[Preprint Hal 2010](https://hal.archives-ouvertes.fr/hal-00483811/fr)"
+   preprint: "[hal-00483811/fr, 2010](https://hal.archives-ouvertes.fr/hal-00483811/fr)"
    AC: "[Ann Oper Res 200, 247–263 (2012)](https://doi.org/10.1007/s10479-011-1027-8)"
 -  AU: "J.-Ph. Chancelier, J. Lelong and B. Lapeyre"
    date: 2010
    TI:    "Using Premia and Nsp for Constructing a Risk Management Benchmark for Testing Parallel Architecture"
-   preprint: "[Preprint Hal 2010](https://hal.archives-ouvertes.fr/hal-00447845)"
+   preprint: "[hal-00447845, 2010](https://hal.archives-ouvertes.fr/hal-00447845)"
    AC: "[Concurrency and Computation: Practice and Experience](http://onlinelibrary.wiley.com/doi/10.1002/cpe.2893/full)"
 -  AU: "J.-Ph. Chancelier"
    date: 2009
    TI: "T-class algorithms for pseudocontractions and k-strict pseudocontractions in Hilbert spaces"
-   preprint: "[Preprint Hal 2007](https://hal.archives-ouvertes.fr/hal-00193621)"
+   preprint: "[hal-00193621, 2007](https://hal.archives-ouvertes.fr/hal-00193621)"
    AC: "[Nonlinear Analysis: Theory, Methods &amp; Applications, vol. 71, iss. 11, 2009](http://dx.doi.org/10.1016/j.na.2009.04.049)"
 -  AU: "P. Carpentier, J.-Ph Chancelier, M. De Lara, and SOWG"
    date: 2009
    TI: "Approximations of stochastic optimization problems subject to measurability constraints"
-   preprint: "[Preprint Hal 2006](https://hal.archives-ouvertes.fr/hal-00975464)"
+   preprint: "[hal-00975464, 2006](https://hal.archives-ouvertes.fr/hal-00975464)"
    AC: "[SIAM J. Optim. Volume 19, Issue 4, pp. 1719-1734 (2009)](http://dx.doi.org/10.1137/070692376)"
 -  AU: "J.-Ph. Chancelier"
    date: 2009
    TI: "Iterative schemes for computing fixed points of nonexpansive mappings in banach spaces"
-   preprint: "[Preprint Hal 2007](https://hal.archives-ouvertes.fr/hal-00184662)"
+   preprint: "[hal-00184662, 2007](https://hal.archives-ouvertes.fr/hal-00184662)"
    AC: "[Journal of Mathematical Analysis and Applications Volume 353, Issue 1, 1 May 2009, Pages 141-153](http://dx.doi.org/10.1016/j.jmaa.2008.11.041)"
 -  AU: "J.-P. Chancelier, M. De Lara, and A. De Palma"
    date: 2008
@@ -314,7 +314,7 @@
 -  AU: "J.-Ph. Chancelier"
    date: 2007
    TI: "A note on strong convergence to common fixed points of nonexpansive mappings in Hilbert spaces"
-   preprint: "[Preprint Hal 2007](https://hal.archives-ouvertes.fr/hal-00418356)"
+   preprint: "[hal-00418356, 2007](https://hal.archives-ouvertes.fr/hal-00418356)"
 -  AU: "J.-Ph. Chancelier, M. De Lara, and A. De Palma"
    date: 2007
    TI: "Risk aversion and optimal strategies in a one-armed bandit problem: an application to road choice"
@@ -387,7 +387,7 @@ Year: 1996](https://ieeexplore.ieee.org/document/555332)"
    AC: "[International Journal of Electrical Power and Energy Systems, 16(3):175-181, 1994](https://doi.org/10.1016/0142-0615(94)90007-8)"
 -  AU: "J.-P. Quadrat, A. Sulem, J.-P. Chancelier, C. Gomez"
    TI: "Pandore : un système expert pour l'optimisation de systèmes dynamiques"
-   preprint: "BIGRE n° 70, Septembre 1990"
+   PROC: "BIGRE n° 70, Septembre 1990"
 -  AU: "Pandore"
    date: 1989
    TI: "Un problème dynamique de contrôle optimal en dimension 2 résolu par une méthode de perturbations régulières"
@@ -395,7 +395,7 @@ Year: 1996](https://ieeexplore.ieee.org/document/555332)"
 -  AU: "J. P. Chancelier, C. Gomez, J. P. Quadrat, A. Sulem"
    date: 1989
    TI: "PANDORE. Advanced computed concepts and techniques"
-   preprint: "[in Control Engineering NATO ASI, Series F, Vol. 47, édité par M. J. Denham et A. J. Laub, 1989](http://jpquadrat.free.fr/Pandore.pdf)"
+   PROC: "[in Control Engineering NATO ASI, Series F, Vol. 47, édité par M. J. Denham et A. J. Laub, 1989](http://jpquadrat.free.fr/Pandore.pdf)"
 -  AU: "J. P. Chancelier, C. Gomez, J. P. Quadrat, A. Sulem"
    date: 1989
    TI: "An Expert System for stochastic control problems : Automatic report generation"
@@ -403,18 +403,23 @@ Year: 1996](https://ieeexplore.ieee.org/document/555332)"
 -  AU: "J.P. Chancelier, C. Gomez, J.P. Quadrat, A. Sulem"
    date: 1988
    TI: "Automatic Study in Stochastic Control"
-   preprint: "[In: Fleming, W., Lions, PL. (eds) Stochastic Differential Systems, Stochastic Control Theory and Applications](https://doi.org/10.1007/978-1-4613-8762-6_5) The IMA Volumes in Mathematics and Its Applications, vol 10. Springer, New York, NY"
+   PROC: "[In: Fleming, W., Lions, PL. (eds) Stochastic Differential Systems, Stochastic Control Theory and Applications](https://doi.org/10.1007/978-1-4613-8762-6_5) The IMA Volumes in Mathematics and Its Applications, vol 10. Springer, New York, NY"
 -  AU: "O. Akhrif, G.L. Blankenship, J.-P. Chancelier, C. Gomez, J.-P. Quadrat, A. Sulem"
    date: 1988
-   TI: "Automatic study in stochastic control"
-   preprint: "[In: Fleming, W., Lions, PL. (eds) Stochastic Differential Systems, Stochastic Control Theory and Applications](https://doi.org/10.1007/978-1-4613-8762-6_5) The IMA Volumes in Mathematics and Its Applications, vol 10. Springer, New York, NY"
+   TI: "Integration of symbolic and numerical processing in control engineering design"
+   abstract: "A description is given of a prototype computer-aided-design system integrating symbolic and numerical processing for the analysis and design of control engineering and signal processing systems. The components and function of the system are examined. Its advantages are discussed"
+   PROC: "[COMPCON Spring 1988, San Francisco, CA, USA](https://doi.ieeecomputersociety.org/10.1109/CMPCON.1988.4916)"
 -  AU: "J.-P. Chancelier, C. Gomez, J.-P. Quadrat"
    date: 1988
    TI: "MACROFORT, A Fortran program generator"
    preprint: "Macsyma letters, 1"
+-  AU: "J.P. Chancelier, A. Sulem"
+   date: 1987
+   TI: "Macrotex : A Latex Code Generator In Macsyma"
+   preprint: "[preprint hal inria-00070073 1987](https://hal.inria.fr/inria-00070073)"
 -  AU: "G. Blankenship, J.-P. Chancelier, C.Gomez, A.La Vigna, D.C. ~McEnany, J.P.Quadrat, and A.Sulem"
    date: 1986
    TI: "An expert system for control and signal processing with automatic  fortran program generation"
-   preprint: "[MTNS Symposium, Stokholm 1986](/assets/pdf/TR_86-2.pdf)"
+   PROC: "[MTNS Symposium, Stokholm 1986](/assets/pdf/TR_86-2.pdf)"
 
 
