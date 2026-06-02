@@ -57,6 +57,10 @@
    TI: "A stochastic algorithm for deterministic multistage optimization problems"
    preprint: "[hal-01964189 Oct 2018](https://inria.hal.science/hal-01964189)"
    AC:  "[Ann Oper Res 345, 1–38 (2025)](https://doi.org/10.1007/s10479-024-06153-8)"
+-  AU: "J.-Ph. Chancelier, M.De Lara"
+   TI: "A Unified View of Polarity for Functions"
+   preprint: "[hal-04746856 (2024)](https://hal.science/hal-04746856)"
+   AC: "[Journal of Convex Analysis (Volume 32, No. 1, 227–262, 2025)](https://www.heldermann.de/JCA/jcacover.htm)"
 -  AU: "C. Martinez Parra, M. De Lara, J.-Ph. Chancelier, P. Carpentier, J.-M. Janin, M. Ruiz"
    date: 2024
    TI: "A Two-Timescale Decision-Hazard-Decision Formulation for Storage Usage Values Calculation"
@@ -73,11 +77,6 @@
    TI: "Learning with Fitzpatrick Losses"
    preprint: "[arXiv:2405.14574](https://arxiv.org/abs/2405.14574)"
    AC: "[Advances in Neural Information Processing Systems 37 (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/90caeb952bd4b03c7d8e7a0e31fc9a8b-Abstract-Conference.html)"
--  AU: "J.-Ph. Chancelier, M. De Lara"
-   date: 2024
-   TI: "A Unified View of Polarity for Functions"
-   preprint: "[hal-04746856 (2024)](https://hal.archives-ouvertes.fr/hal-04746856)"
-   AC: "[Journal of Convex Analysis (2024)](https://www.heldermann.de/JCA/jcacover.htm)"
 -  AU: "T. Rigaut, P. Carpentier, J.-P. Chancelier, M. De Lara"
    date: 2024
    TI: "Decomposition Methods for Monotone Two-Time-Scale Stochastic Optimization Problems"
@@ -88,6 +87,11 @@
    TI: "Time Consistency for Multistage Stochastic Optimization Problems under Constraints in Expectation"
    preprint: "[hal-03761310 (2022)](https://hal.archives-ouvertes.fr/hal-03761310)"
    AC:  "[SIAM Journal on Optimization, vol. 34, iss. 2 (2024)](https://doi.org/10.1137/22M151830X)"
+-  AU: "F. Pacaud, P. Carpentier, J.-Ph. Chancelier, M. De Lara"
+   date: 2024
+   TI: "Stochastic optimal control of a domestic microgrid equipped with solar panel and battery"
+   preprint: "[hal-01688666, 2018](https://hal-enpc.archives-ouvertes.fr/hal-01688666)"
+   AC: "Energy Systems (2024) under the modified title 'Optimization of a domestic microgrid equipped with solar panel and battery: Model Predictive Control and Stochastic Dual Dynamic Programming approaches' "
 -  AU: "P. Carpentier, J.-Ph. Chancelier, M. De Lara, T. Martin, T. Rigaut"
    date: 2023
    TI: "Time Blocks Decomposition of Multistage Stochastic Optimization Problems"
@@ -98,6 +102,11 @@
    TI: "EMSx: an Energy Management System numerical benchmark"
    preprint: "[hal-02425913, Dec 2019](https://hal.archives-ouvertes.fr/hal-02425913)"
    AC: "[Energy Syst 14, 845 (2023)](https://doi.org/10.1007/s12667-021-00430-2)"
+-  AU: "J.-Ph. Chancelier, M. De Lara"
+   date: 2023
+   TI: "Orthant-Strictly Monotonic Norms, Generalized Top-k and k-Support Norms and the L0 Pseudonorm"
+   preprint: "[hal-02456433v2 (2021)](https://hal.archives-ouvertes.fr/hal-02456433v3)"
+   AC: "[Journal of Convex Analysis (Volume 30, No. 3, 743–769, 2023)](https://www.heldermann.de/JCA/jcacover.htm)"
 -  AU: "A. Le Franc, J.-P. Chancelier, M. De Lara"
    date: 2022
    TI: "The Capra-subdifferential of the l0 pseudonorm"
@@ -118,11 +127,6 @@
    TI: "Kuhn's Equivalence Theorem for Games in Product Form"
    preprint: "[hal-03193448v1 (2021)](https://hal.archives-ouvertes.fr/hal-03193448v1)"
    AC:  "[Games and Economic Behaviour (2022)](https://www.sciencedirect.com/science/article/pii/S0899825622001051)"
--  AU: "J.-Ph. Chancelier, M. De Lara"
-   date: 2022
-   TI: "Orthant-Strictly Monotonic Norms, Generalized Top-k and k-Support Norms and the L0 Pseudonorm"
-   preprint: "[hal-02456433v2 (2021)](https://hal.archives-ouvertes.fr/hal-02456433v3)"
-   AC: "[Journal of Convex Analysis (March 2022)](https://www.heldermann.de/JCA/jcacover.htm)"
 -  AU: "J.-Ph. Chancelier, M. De Lara, Benoît Tran"
    date: 2022
    TI: "Minimization Interchange Theorem on Posets"
@@ -143,11 +147,11 @@
    TI: "A Decomposition Method by Interaction Prediction for the Optimization of Maintenance Scheduling"
    preprint: "[hal--02489304v1, Feb. 2020, 30 pages](https://hal.archives-ouvertes.fr/hal-02489304v1)"
    AC: "[Ann Oper Res 316, 229–267 (2022)](https://doi.org/10.1007/s10479-021-04460-y)"
--  AU: "F. Pacaud, P. Carpentier, J.-Ph. Chancelier, M. De Lara"
+-  AU: "J.-Ph. Chancelier, M. De Lara"
    date: 2022
-   TI: "Stochastic optimal control of a domestic microgrid equipped with solar panel and battery"
-   preprint: "[hal-01688666, 2018](https://hal-enpc.archives-ouvertes.fr/hal-01688666)"
-   AC: "Energy Systems (2022) under the modified title 'Optimization of a domestic microgrid equipped with solar panel and battery: Model Predictive Control and Stochastic Dual Dynamic Programming approaches' "
+   TI: "Constant Along Primal Rays Conjugacies and the l0 Pseudonorm"
+   preprint: "[hal-02459673, Jan. 2020, 34 pages](https://hal.archives-ouvertes.fr/hal-02459673)"
+   AC: "[Optimization Volume 71, No. 2, pp 355–386, 2022](https://www.tandfonline.com/doi/full/10.1080/02331934.2020.1822836)"
 -  AU: "B. Heymann, M. De Lara, J.-Ph. Chancelier"
    date: 2021
    TI: "Causal Inference Theory with Information Dependency Models"
@@ -183,10 +187,6 @@
    AC: "[IEEE Transactions on Power Systems (2021)](10.1109/TPWRS.2021.3087775)"
 -  AU: "J.-Ph. Chancelier, M. De Lara"
    date: 2020
-   TI: "Orthant-Strictly Monotonic Norms, Graded Sequences and Generalized Top-k and k-Support Norms for Sparse Optimization"
-   preprint: "[hal-02456433 (2020), 29 pages](https://hal.archives-ouvertes.fr/hal-02456433)"
--  AU: "J.-Ph. Chancelier, M. De Lara"
-   date: 2020
    TI: Constant Along Primal Rays Conjugacies and Generalized Convexity for Functions of the Support
    preprint: "[hal-02976039v1, Oct. 2020, 23 pages](https://hal.archives-ouvertes.fr/hal-02976039v1)"
 -  AU: "M. Akian, J.-Ph. Chancelier, B. Tran"
@@ -203,11 +203,6 @@
    date: 2020
    TI: "Variational Formulations for the l0 Pseudonorm and Application to Sparse Optimization"
    preprint: "[hal-02459688, Jan. 2020, 23 pages](https://hal.archives-ouvertes.fr/hal-02459688)"
--  AU: "J.-Ph. Chancelier, M. De Lara"
-   date: 2020
-   TI: "Constant Along Primal Rays Conjugacies and the l0 Pseudonorm"
-   preprint: "[hal-02459673, Jan. 2020, 34 pages](https://hal.archives-ouvertes.fr/hal-02459673)"
-   AC: "[Optimization Sept. 2020](https://www.tandfonline.com/doi/full/10.1080/02331934.2020.1822836)"
 -  AU: "P. Carpentier, J.-Ph. Chancelier, M. De Lara, F. Pacaud"
    date: 2020
    TI: "Mixed Spatial and Temporal Decompositions for Large-Scale Multistage Stochastic Optimization Problems"
