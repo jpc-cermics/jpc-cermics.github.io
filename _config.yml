@@ -20,12 +20,12 @@ author: jpc
 ###############################################
 
 navbar-links:
-  Books: "books"
   Publications: "publications"
-  Old: "publications-old"	
+  Books: "books"
+#  Old: "publications-old"	
   Courses: "courses"
   Nsp: "nsp"
-  Hobbies: "perso"
+#  Hobbies: "perso"
 #  Images: "images"
 
 ################
