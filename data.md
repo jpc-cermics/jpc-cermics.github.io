@@ -12,8 +12,7 @@ carousels:
 cermics: "https://jpc-cermics.github.io/web-test"
 ---
 
-### data files for "A Production Routing Problem with Mobile Inventories"
-* [tgz archive](data/)
+We provide here an <a href="{{ '/assets/hympulsion/Hympulsion-gen-data.tgz' | relative_urk }}">Archive of Julia scripts</a>
+for generating data used in the publication "A Production Routing Problem with Mobile Inventories"
 
-<a href="{{ '/assets/hympulsion/Hympulsion-gen-data.tgz' | relative_urk }}">tgz archive</a>
 
