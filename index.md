@@ -18,7 +18,7 @@ carousels:
 <img src="{{ '/assets/images/jpc.jpg' | relative_url }}"
      align="right" hspace="20" vspace="20" width="150"/> 
 <p style="text-align: justify;">
-  Researcher at <a href="cermics.enpc.fr">CERMICS</a> in the
+  Researcher at <a href="web-test">CERMICS</a> in the
   <a href="{{ cermics }}/optimization">Optimization</a> team and Professor at
   <a href="https://ecoledesponts.fr/">École Nationale des Ponts et Chaussées</a>
 </p>
