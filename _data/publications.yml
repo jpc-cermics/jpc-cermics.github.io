@@ -1,3 +1,7 @@
+-  AU: "J.-P. Chancelier, M. de Lara"
+   date: 2026
+   TI: "Conditional Infimum, Hidden Convexity and S-Procedure"
+   preprint: "[hal-05754640 (2026)](https://hal.science/hal-05754640)"
 -  AU: "J.-P. Chancelier"
    date: 2026
    TI: "A formal proof of the Sands-Sauer-Woodrow theorem using the Rocq prover and mathcomp/ssreflect"
