@@ -129,8 +129,9 @@
 -  AU: "B. Heymann, M. De Lara, J.-Ph. Chancelier"
    date: 2022
    TI: "Kuhn's Equivalence Theorem for Games in Product Form"
-   preprint: "[hal-03193448v1 (2021)](https://hal.archives-ouvertes.fr/hal-03193448v1)"
+   preprint: "[hal-03193448v1 (2021)](https://hal.archives-ouvertes.fr/hal-03193448v1), [hal--02880591 (2020)](https://hal.archives-ouvertes.fr/hal-02880591)"
    AC:  "[Games and Economic Behaviour (2022)](https://www.sciencedirect.com/science/article/pii/S0899825622001051)"
+   CO: "This second preprint was developed using the finite version of Witsenhausen's intrinsic model. The more general version is published in Games and Economic Behaviour"
 -  AU: "J.-Ph. Chancelier, M. De Lara, Benoît Tran"
    date: 2022
    TI: "Minimization Interchange Theorem on Posets"
@@ -198,11 +199,6 @@
    TI: "Tropical Dynamic Programming for Lipschitz Multistage Stochastic Programming"
    preprint: "[ arxiv:2010.10619, Oct. 2020, 23 pages](https://arxiv.org/abs/2010.10619)"
    SU: Oct. 2020
--  AU: "B. Heymann, M. De Lara, J.-Ph. Chancelier"
-   date: 2020
-   TI: "Kuhn's Equivalence Theorem for Games in Intrinsic Form"
-   preprint: "[hal--02880591, Jun. 2020, 25 pages](https://hal.archives-ouvertes.fr/hal-02880591)"
-   CO: "This paper was developpend using the finite version of Witsenhausen's intrinsic model. A more general version is published in Games and Economic Behaviour  (Jun 2022)"
 -  AU: "J.-Ph. Chancelier, M. De Lara"
    date: 2020
    TI: "Variational Formulations for the l0 Pseudonorm and Application to Sparse Optimization"
@@ -348,7 +344,7 @@
    date: 1998
    TI: "Estimation of settling velocities"
    AC: "[Water Research, 32(11):3461-3471, 1998](https://doi.org/10.1016/S0043-1354(98)00114-6)"
--  AU: "M. AKIAN, J.-P. CHANCELIER, J.-P. QUADRAT"
+-  AU: "M. Akian, J.-P. Chancelier, J.-P. Quadrat"
    TI: "Dynamic Programming Complexity and Application"
    AC: "[27th IEEE Conference on Decision and Control (CDC 2018)](https://ieeexplore.ieee.org/document/194590)"
 -  AU: "J.-P. Chancelier, M. Cohen De Lara, and F. Pacard"
