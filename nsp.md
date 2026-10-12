@@ -14,6 +14,17 @@ cermics: "https://jpc-cermics.github.io/web-test"
 
 ### Nsp: a GPL Scientific Software Package.
 
+Nsp is a GPL scientific software package that I have been developing together
+with Bruno Pinçon, Ramine Nikoukhah, François Delebecque and others. It started
+as a complete rewrite of ScilabGtk. Its Matlab/Scilab-like interpreter is
+written in C on top of an internal object system, with matrices, hash tables,
+lists and cells as basic types. The whole GTK toolkit can be used from Nsp
+through automatically generated bindings, and graphics rely on Cairo and
+OpenGL. Nsp interfaces many numerical libraries (LAPACK, UMFPACK, GLPK, Qhull,
+CPLEX, Gurobi…) and includes its own version of Scicos. It has been used for a
+risk-management benchmark with Premia, an LMI parser, translating Simulink
+models to Modelica, and teaching.
+
 * Also named Tumbi, the name for [bee](http://en.wikipedia.org/wiki/Bee) in [Kannada](http://en.wikipedia.org/wiki/Kannada_language).
 A nice [tumbi picture](http://www.flickr.com/photos/14516334@N00/345009210) can be found on [Flickr](http://www.flickr.com).
 * It is based on a complete rewrite of ScilabGtk
@@ -292,6 +303,15 @@ endfunction
 {% endhighlight %}
 
 #### ScicosLab
+
+ScicosLab (formerly ScilabGtk) is a free scientific computing environment based
+on Scilab 4 ("Legacy Scilab"). I developed it within the Scilab Group (INRIA
+Metalau and ENPC CERMICS). It came with a GTK interface, and its main purpose
+was to distribute the latest versions of Scicos, a block-diagram modeler and
+simulator for hybrid dynamical systems. Binaries were provided for Linux, macOS
+and Windows. ScicosLab 4.4 is the reference software of the book
+[Modeling and Simulation in Scilab/Scicos with ScicosLab 4.4](http://www.scicos.org/book.html)
+(S. L. Campbell, J.-P. Chancelier, R. Nikoukhah, Springer, 2010).
 
 [ScicosLab Home Page](scilab-gtk-tiddly/mine.html). ScicosLab is the new name of ScilabGtk.
 -  [http://www.scilabgtk.org](http://www.scilabgtk.org)
