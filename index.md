@@ -28,7 +28,7 @@ carousels:
  - 2024 onwards: formal proofs, a new direction. Coq-checked proofs of
    conditional separation and of the Sands–Sauer–Woodrow theorem.
 
- - 2020 onwards: information structures, games and causality with
+ - 2020 onwards: information structures, games and causality with M. De Lara and
    B. Heymann. This includes Kuhn's equivalence theorem (Games and Economic
    Behavior 2022), conditional separation and causal inference.
 
@@ -38,8 +38,7 @@ carousels:
  - 2019 onwards: generalized convexity and sparsity with Michel De Lara, Seta
    Rakotomandimby, Adrien Le Franc, Antoine Deza and Lionel Pournin. Capra
    conjugacies and the ℓ<sub>0</sub> pseudonorm with M. De Lara, five of them in
-   the Journal of Convex Analysis (see the
-   [Publications]({{ '/publications' | relative_url }}) page). This work extends
+   the Journal of Convex Analysis. This work extends
    to the geometry of norms (submitted to JMLR) and to machine learning
    (Fitzpatrick losses, NeurIPS 2024).
 
