@@ -1,5 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-scf(\nspnumber{0})
-plot2d()
-xs2ppm(\nspnumber{0},\nspstring{'foo.ppm'})
-\end{Verbatim}

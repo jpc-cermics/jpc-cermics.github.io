@@ -1,3 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-hex2dec([\nspstring{'ABC'}\nspoperator{,}\nspstring{'0'}\nspoperator{,}\nspstring{'A'}])
-\end{Verbatim}

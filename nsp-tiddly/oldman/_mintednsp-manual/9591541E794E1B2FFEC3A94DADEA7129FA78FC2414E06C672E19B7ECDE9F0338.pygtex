@@ -1,5 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-subf(\nspstring{'0'},\nspstring{'a'})
-subf(\nspstring{'2'},\nspstring{'1'})
-subf(\nspstring{'a'},\nspstring{'0'})
-\end{Verbatim}

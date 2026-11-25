@@ -1,5 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-nextpow2(\nspnumber{127})
-nextpow2(\nspnumber{128})
-nextpow2(\nspnumber{0}\nspoperator{:}\nspnumber{10})
-\end{Verbatim}

@@ -1,3 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-nb_worker=pvm_gsize(\nspstring{"worker"})
-\end{Verbatim}

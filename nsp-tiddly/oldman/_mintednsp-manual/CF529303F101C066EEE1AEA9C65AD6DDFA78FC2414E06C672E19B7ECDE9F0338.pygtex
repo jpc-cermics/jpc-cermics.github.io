@@ -1,4 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-[path,fname,extension]=fileparts(\nspstring{'SCI/scilab.star'})
-fileparts(\nspstring{'SCI/scilab.star'},\nspstring{'extension'})
-\end{Verbatim}

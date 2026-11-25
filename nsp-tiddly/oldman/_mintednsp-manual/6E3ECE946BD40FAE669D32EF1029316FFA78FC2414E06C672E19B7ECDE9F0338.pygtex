@@ -1,3 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-plot(hilb(\nspnumber{51}))
-\end{Verbatim}

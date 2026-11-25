@@ -1,5 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-x=[\nspnumber{1}\nspoperator{,}%i\nspoperator{,}\nspoperator{-}\nspnumber{1}\nspoperator{,}\nspoperator{-}%i]
-tanh(x)
-sinh(x)\nspoperator{ ./}cosh(x)
-\end{Verbatim}

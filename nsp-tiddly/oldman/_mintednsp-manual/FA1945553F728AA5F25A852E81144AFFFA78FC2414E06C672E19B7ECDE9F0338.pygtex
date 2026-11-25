@@ -1,5 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-tree=macr2tree(fun)\nspoperator{;}
-txt=tree2code(tree,%T)\nspoperator{;}
-write(%io(\nspnumber{2}),txt,\nspstring{'(a)'})
-\end{Verbatim}

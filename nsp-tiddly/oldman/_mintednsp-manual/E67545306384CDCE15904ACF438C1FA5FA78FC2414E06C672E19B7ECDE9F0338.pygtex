@@ -1,5 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-files=dirname(\nspstring{'SCI/macros/util/poo.sci'})
-files=dirname(\nspstring{'SCI/macros\nspbs{}util/poo.sci'})
-files=dirname(\nspstring{'SCI/macros\nspbs{}util/poo.sci.k'})
-\end{Verbatim}

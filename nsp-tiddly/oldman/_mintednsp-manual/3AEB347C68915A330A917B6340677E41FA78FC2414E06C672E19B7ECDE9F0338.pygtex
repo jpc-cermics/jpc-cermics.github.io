@@ -1,5 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-console(\nspstring{'off'})
-state=console()
-console()
-\end{Verbatim}

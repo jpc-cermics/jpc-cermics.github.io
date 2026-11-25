@@ -1,5 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-s=poly(\nspnumber{0},\nspstring{'s'})\nspoperator{;}
-tril([s\nspoperator{,}s\nspoperator{;}s\nspoperator{,}\nspnumber{1}])
-tril([\nspnumber{1}\nspoperator{/}s\nspoperator{,}\nspnumber{1}\nspoperator{/}s\nspoperator{;}\nspnumber{1}\nspoperator{/}s\nspoperator{,}\nspnumber{1}])
-\end{Verbatim}

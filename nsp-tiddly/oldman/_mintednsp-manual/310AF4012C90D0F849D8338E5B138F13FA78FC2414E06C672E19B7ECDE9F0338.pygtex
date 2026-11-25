@@ -1,5 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-mulf(\nspstring{'1'},\nspstring{'a'})
-mulf(\nspstring{'0'},\nspstring{'a'})
-\nspstring{'a'}\nspoperator{+}\nspstring{'b'}\nspoperator{,}\nspcomment{//Caution...}
-\end{Verbatim}

@@ -1,4 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-xset(\nspstring{"colormap"},hotcolormap(\nspnumber{32}))
-plot3d1()
-\end{Verbatim}

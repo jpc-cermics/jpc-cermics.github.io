@@ -1,4 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-t=\nspnumber{0}\nspoperator{:}\nspnumber{0.1}\nspoperator{:}%pi
-inttrap(t,sin(t))
-\end{Verbatim}

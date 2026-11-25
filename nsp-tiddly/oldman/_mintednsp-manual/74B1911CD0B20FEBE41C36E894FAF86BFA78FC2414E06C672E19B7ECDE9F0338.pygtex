@@ -1,4 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-w=fileinfo(SCI\nspoperator{+}\nspstring{'/scilab.star'})
-getdate(w(\nspnumber{6}))
-\end{Verbatim}

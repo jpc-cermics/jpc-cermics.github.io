@@ -1,6 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-s=poly(\nspnumber{0},\nspstring{'s'})\nspoperator{;}M=[s\nspoperator{,}\nspnumber{1}\nspoperator{/}s]\nspoperator{;}
-horner(M,\nspnumber{1})
-horner(M,%i)
-horner(M,\nspnumber{1}\nspoperator{/}s)
-\end{Verbatim}

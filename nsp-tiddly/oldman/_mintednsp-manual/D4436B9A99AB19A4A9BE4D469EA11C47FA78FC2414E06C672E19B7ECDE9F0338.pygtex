@@ -1,4 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-xset(\nspstring{"colormap"},jetcolormap(\nspnumber{64}))
-plot3d1()
-\end{Verbatim}

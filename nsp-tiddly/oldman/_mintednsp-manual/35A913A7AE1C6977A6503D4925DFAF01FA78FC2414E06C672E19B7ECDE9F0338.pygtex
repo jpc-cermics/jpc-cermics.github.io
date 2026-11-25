@@ -1,3 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-erf([\nspnumber{0.5}\nspoperator{,}\nspnumber{0.2}])\nspoperator{+}erfc([\nspnumber{0.5}\nspoperator{,}\nspnumber{0.2}])
-\end{Verbatim}

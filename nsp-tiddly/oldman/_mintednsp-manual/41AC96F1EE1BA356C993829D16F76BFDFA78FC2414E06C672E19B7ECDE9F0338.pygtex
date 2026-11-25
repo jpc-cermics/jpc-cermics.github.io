@@ -1,4 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-answ=buttondialog(\nspstring{"This is an example"},\nspstring{"ok"})\nspoperator{;}
-answ=buttondialog(\nspstring{"Do the work?"},\nspstring{"yes|no|maybe"},\nspstring{"question"})\nspoperator{;}
-\end{Verbatim}

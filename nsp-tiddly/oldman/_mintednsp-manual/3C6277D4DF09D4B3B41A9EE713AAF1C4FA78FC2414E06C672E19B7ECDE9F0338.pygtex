@@ -1,4 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-[b,info,msgtid,tag]=pvm_recv(pvm_parent(),\nspnumber{100})
-g=pvm_recv(pvm_parent(),\nspnumber{200})
-\end{Verbatim}

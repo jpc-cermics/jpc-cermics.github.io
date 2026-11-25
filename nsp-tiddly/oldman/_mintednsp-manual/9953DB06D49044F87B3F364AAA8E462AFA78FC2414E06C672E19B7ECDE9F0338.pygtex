@@ -1,5 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-tk_getdir()
-tk_getdir(\nspstring{'SCI/macros/xdess'})
-tk_getdir(title = \nspstring{'Choose a directory name '})
-\end{Verbatim}

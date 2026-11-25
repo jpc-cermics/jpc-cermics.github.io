@@ -1,6 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-TCL_SetVar(\nspstring{'Scilab'},\nspstring{'OK'})
-TCL_GetVar(\nspstring{'Scilab'})
-TCL_UnsetVar(\nspstring{'Scilab'})
-TCL_ExistVar(\nspstring{'Scilab'})
-\end{Verbatim}

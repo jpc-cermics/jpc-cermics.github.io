@@ -1,5 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-whos()
-\nspcomment{// whos -type boolean}
-\nspcomment{// whos -name \nsppc{}}
-\end{Verbatim}

@@ -1,8 +1,0 @@
-#!/bin/csh
-
-foreach f ( *.html  )
-    echo "----------------" $f "--------------------"
-    emacs $f  -l `pwd`/substitute.el -e job -batch
-end
-
-
